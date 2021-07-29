@@ -15,6 +15,7 @@ export default {
   data() {
     return {
       a: 1,
+      bc: 2,
     };
   },
   mounted() {
